@@ -1,0 +1,41 @@
+.card1 {
+    padding: 100px 0px;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    background-color: black;
+}
+.card1 h1 {
+    margin-bottom: 50px;
+    font-size: 95px;
+    font-weight: 900;
+}
+.card1 h1 span {
+    margin-left: 40px;
+}
+.card1 h2 {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 35px;
+}
+.card1 button {
+    width:280px;
+    height: 80px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+
+.section2 {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.932);
+    margin-top: 100px;
+}

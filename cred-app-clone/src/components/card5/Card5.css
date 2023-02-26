@@ -1,0 +1,58 @@
+.card5 {
+    padding: 100px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(36, 35, 35);
+}
+.ratings {
+    display: flex;
+    color: whitesmoke;
+    gap:100px;
+
+}
+.left {
+    margin-bottom: 80px;
+}
+.right {
+    margin-bottom: 80px;
+}
+.card5 p {
+    width:500px;
+    text-align: center;
+    color: white;
+}
+.left h1{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.right h1{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.left button {
+    margin-top: 20px;
+    width:150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+.right button {
+    margin-top: 20px;
+    width:150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+.card5 p{
+    font-size: 14px;
+    font-weight: 200;
+    font-family: cursive;
+}

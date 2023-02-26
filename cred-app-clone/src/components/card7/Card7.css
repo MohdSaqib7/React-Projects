@@ -1,0 +1,48 @@
+.card7 {
+    display: flex;
+    gap:50px;
+    background-color: rgb(36, 35, 35);
+    color:white;
+    padding-top: 200px;
+    display: flex;
+    height: 100vh;
+    padding-left: 200px;
+    padding-bottom: 100px;
+}
+.card7 div {
+    width: 350px;
+}
+.logos img{
+    margin-bottom: 20px;
+}
+.logos h1 {
+    margin-bottom: 10px;
+}
+.logos p{
+    margin-bottom: 135px;
+}
+.logos h4{
+    font-size: 12px;
+    font-weight: 100;
+    color: aliceblue;
+}
+
+.card7 div div h1{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.card7 div div h5 {
+    font-size: 14px;
+    font-weight: 200;
+    margin-bottom: 8px;
+}
+.products {
+    margin-bottom: 100px;
+}
+.resource h4{
+    font-size: 12px;
+    font-weight: 100;
+    color: aliceblue;
+    margin-top: 60px;
+}
