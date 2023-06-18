@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.App {
+    border: 2px solid rgb(47, 196, 255);
+    text-align: center;
+    width: 500px;
+    padding: 10px 20px;
+}
+.header {
+    margin-top: 10px;
+    border: 2px solid rgb(243, 227, 7); 
+}
+.header h1 {
+    color: rgb(99, 98, 98);
+    font-weight: bolder;
+    font-size: 60px;
+}
+.header p {
+    color: grey;
+    font-size: large;
+    margin-top: 10px;
+}
+
+
+.inputArea {
+    border: 2px solid greenyellow;
+    display: flex;
+    /* gap:170px; */
+    margin-top: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#inputTag {
+    border: none;
+    outline: none;
+    font-size: larger;
+    width: 415px;
+}
+.inputArea button {
+    border: none;
+    outline: none;
+}
+.inputArea img {
+    cursor: pointer;
+    margin-top: 3px;
+}
+.inputArea img:hover {
+    width: 21px;
+    height: 21px;
+    background-color: green;
+}
+
+.todoslist {
+    border: 2px solid blueviolet;
+    padding: 5px 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+.todo {
+    border: 2px solid red;
+    border-radius: 4px;
+    display: flex;
+    padding: 2px 5px;
+    justify-content: space-between;
+}
+.todo div button {
+    margin-left: 5px;
+    width: 24px;
+    height: 22px;
+}
+.todo div h3 {
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+#mylistImg {
+    margin-top: 3px;
+}
+#myDeleteBtn {
+    height: 25px;
+}
+
